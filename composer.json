@@ -21,7 +21,7 @@
     "monolog/monolog": "1.25.3",
     "ocramius/package-versions": "1.4.2|1.5.1|1.8.0",
     "ocramius/proxy-manager": "2.1.1|2.2.3|2.8.0",
-    "oxid-esales/flow-theme": "v3.4.1".
+    "oxid-esales/flow-theme": "v3.4.1",
     "oxid-esales/oxideshop-ce": "v6.5.4",
     "oxid-esales/oxideshop-composer-plugin": "v4.1.1",
     "oxid-esales/oxideshop-db-views-generator": "v1.3.0",
