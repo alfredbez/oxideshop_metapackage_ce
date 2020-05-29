@@ -1,5 +1,5 @@
 {
-  "name": "oxid-esales/oxideshop-metapackage-ce",
+  "name": "alfredbez/oxideshop-metapackage-ce",
   "description": "This is OXID eShop compilation metapackage.",
   "type": "project",
   "keywords": ["oxidEshop", "metapackage"],
